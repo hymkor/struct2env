@@ -10,7 +10,7 @@ It’s designed to work with [encoding/json] and [struct2flag] for layered confi
 
 `example.go`
 
-```example.go
+```examples/example.go
 package main
 
 import (
@@ -31,8 +31,8 @@ func main() {
 }
 ```
 
-`go run example.go`
+`go run examples/example.go`
 
-```go run example.go |
-EDITOR="C:/Users/hymko/scoop/apps/vim/current/gvim.exe"
+```go run examples/example.go |
+EDITOR="vim.exe"
 ```
